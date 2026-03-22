@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Sanchez"
+    given-names: "Paula"
+    affiliation: "Elettra Sincrotrone Trieste"
+title: "DualEnergyTomolab: Quantitative Dual-Energy CT Analysis for Bone Density Measurements"
+version: 1.0.0
+date-released: 2026-03-22
+url: "https://github.com/PauJSanch/DualEnergyTomolab"
+repository-code: "https://github.com/PauJSanch/DualEnergyTomolab"
+license: CC-BY-NC-4.0
+keywords:
+  - dual-energy CT
+  - bone density
+  - synchrotron tomography
+  - quantitative imaging
+  - basis material decomposition
+  - hydroxyapatite
+abstract: >
+    TODO

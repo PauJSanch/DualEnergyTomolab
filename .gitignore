@@ -1,0 +1,43 @@
+myenv/
+data/
+__pycache__/
+sample_40_different_sizes.csv
+LE.h5
+paper/main.aux
+paper/main.bbl
+paper/main.bcf
+paper/main.blg
+paper/main.log
+paper/main.out
+paper/main.pdf
+paper/main.run.xml
+paper/main.synctex.gz
+figures_and_tables
+
+# Local configuration (DO NOT COMMIT)
+config.py
+config.local.py
+.env
+
+# Sensitive files
+*.pem
+*.key
+credentials.json
+
+# Large data files
+*.raw
+*.h5
+*.tif
+*.tiff
+
+# User-specific paths
+paths.json
+local_config.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
